@@ -1,0 +1,1 @@
+# .netcore-parse-excel-list-of-objects
