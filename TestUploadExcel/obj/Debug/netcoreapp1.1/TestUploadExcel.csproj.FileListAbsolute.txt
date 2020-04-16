@@ -1,0 +1,18 @@
+c:\users\mina bedier\documents\visual studio 2017\Projects\TestUploadExcel\TestUploadExcel\bin\Debug\netcoreapp1.1\TestUploadExcel.deps.json
+c:\users\mina bedier\documents\visual studio 2017\Projects\TestUploadExcel\TestUploadExcel\bin\Debug\netcoreapp1.1\TestUploadExcel.runtimeconfig.json
+c:\users\mina bedier\documents\visual studio 2017\Projects\TestUploadExcel\TestUploadExcel\bin\Debug\netcoreapp1.1\TestUploadExcel.runtimeconfig.dev.json
+c:\users\mina bedier\documents\visual studio 2017\Projects\TestUploadExcel\TestUploadExcel\bin\Debug\netcoreapp1.1\TestUploadExcel.dll
+c:\users\mina bedier\documents\visual studio 2017\Projects\TestUploadExcel\TestUploadExcel\bin\Debug\netcoreapp1.1\TestUploadExcel.pdb
+c:\users\mina bedier\documents\visual studio 2017\Projects\TestUploadExcel\TestUploadExcel\obj\Debug\netcoreapp1.1\TestUploadExcel.csprojResolveAssemblyReference.cache
+c:\users\mina bedier\documents\visual studio 2017\Projects\TestUploadExcel\TestUploadExcel\obj\Debug\netcoreapp1.1\TestUploadExcel.AssemblyInfo.cs
+c:\users\mina bedier\documents\visual studio 2017\Projects\TestUploadExcel\TestUploadExcel\obj\Debug\netcoreapp1.1\TestUploadExcel.dll
+c:\users\mina bedier\documents\visual studio 2017\Projects\TestUploadExcel\TestUploadExcel\obj\Debug\netcoreapp1.1\TestUploadExcel.pdb
+F:\Work\.NET c#\TestUploadExcel\TestUploadExcel\bin\Debug\netcoreapp1.1\TestUploadExcel.deps.json
+F:\Work\.NET c#\TestUploadExcel\TestUploadExcel\bin\Debug\netcoreapp1.1\TestUploadExcel.runtimeconfig.json
+F:\Work\.NET c#\TestUploadExcel\TestUploadExcel\bin\Debug\netcoreapp1.1\TestUploadExcel.runtimeconfig.dev.json
+F:\Work\.NET c#\TestUploadExcel\TestUploadExcel\bin\Debug\netcoreapp1.1\TestUploadExcel.dll
+F:\Work\.NET c#\TestUploadExcel\TestUploadExcel\bin\Debug\netcoreapp1.1\TestUploadExcel.pdb
+F:\Work\.NET c#\TestUploadExcel\TestUploadExcel\obj\Debug\netcoreapp1.1\TestUploadExcel.csprojResolveAssemblyReference.cache
+F:\Work\.NET c#\TestUploadExcel\TestUploadExcel\obj\Debug\netcoreapp1.1\TestUploadExcel.AssemblyInfo.cs
+F:\Work\.NET c#\TestUploadExcel\TestUploadExcel\obj\Debug\netcoreapp1.1\TestUploadExcel.dll
+F:\Work\.NET c#\TestUploadExcel\TestUploadExcel\obj\Debug\netcoreapp1.1\TestUploadExcel.pdb
