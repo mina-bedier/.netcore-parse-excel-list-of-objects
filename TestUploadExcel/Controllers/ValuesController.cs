@@ -21,7 +21,7 @@ namespace TestUploadExcel.Controllers
         {
             _hostingEnvironment = hostingEnvironment;
         }
-        ////[HttpGet("upload-check-in-sheet")]
+        //[HttpGet("upload-check-in-sheet")]
         //public IActionResult UploadFile(IFormFile file)
         //{
         //    IEnumerable<Drivers> drivers;
